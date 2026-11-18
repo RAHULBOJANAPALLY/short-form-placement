@@ -1,0 +1,21 @@
+
+# API keys and environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated output
+out/
+
+# Video files
+*.mp4
+
+# Editor settings
+.vscode/
